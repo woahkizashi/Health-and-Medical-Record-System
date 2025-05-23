@@ -15,7 +15,7 @@ require_once 'functions.php';
     <header>
         <div class="container">
             <div class="logo">
-                <img src="<?php echo BASE_URL; ?>/assets/images/logo.png" alt="Logo">
+                <img src="<?php echo BASE_URL; ?>/assets/images/plus-big.png" alt="Logo">
                 <h1><?php echo SITE_NAME; ?></h1>
             </div>
             <nav>
